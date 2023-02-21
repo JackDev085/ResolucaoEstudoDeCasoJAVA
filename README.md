@@ -1,7 +1,7 @@
 # Resolu-oEstudoDeCasoJAVA
 Aqui está uma resolução de estudo de caso que tive na monitoria de minha instituição e estou trazendo para tanto somar no meu repositório como também fomentar o mundo da tecnologia com outras questões.
 
-Venho aqui trazer a resolução de um estudo de caso que fiz no decorrer da monitoria que  participo no Instituto CUCA / Fortaleza  CE.
+Venho aqui trazer a resolução de um estudo de caso que fiz no decorrer da monitoria que participo no Instituto CUCA / Fortaleza  CE.
 
 A questão é a seguinte:
 
@@ -13,9 +13,9 @@ A questão é a seguinte:
 * 'v' = vespertino;
 * 'N'= NOTURNO;
 Construa um algoritmo que calcule e imprima:
-° qual é o elevador mais frequenntado e em que período se concenntra o maior fluxo;
+° qual é o elevador mais frequentado e em que período se concentra o maior fluxo
 ° qual o periodo mais usado de todos e a que elevador pertence;
-° qual a diferença porcentual entre o mais usado dos horárioos e o menos ussaddo;
+° qual a diferença porcentual entre o mais usado dos horários e o menos usado;
 ° qual a porcentagem sobre o total de serviços prestados do elevador de média utilização.
 
 No código vou trazer todos os pensamentos e passo a passo de como cheguei na conclusão do código.
